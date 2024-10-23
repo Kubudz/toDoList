@@ -1,0 +1,46 @@
+*{
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+  ;
+  font-size: 16px;
+}
+body{
+  background-color: rgb(219, 210, 200);
+}
+.buttonFilt{
+  padding: 10px;
+  margin: 10px;
+  border-radius: 50px;
+
+  background-color:cornflowerblue;
+}
+input[type="text"]
+{
+  margin: 10px;
+  padding: 5px;
+}
+.be{
+  padding: 8px;
+  border: 0;
+  background-color: rgb(129, 178, 161);
+}
+.usun{
+  background-color: red;
+  border: 0;
+  color: white;
+  padding: 5px;
+  outline: none;
+  margin-left: 2px;
+}
+.done{
+  background-color: rgb(120, 204, 109);
+  border: 0;
+  color: white;
+  padding: 5px;
+  outline: none;
+}
+.item{
+  padding-top: 10px;
+}
+#toDoContainer{
+  text-align: center;
+}
